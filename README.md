@@ -1,4 +1,4 @@
-# mvvm-backend
+# MVVM - backend side
 Server implementation for the Todo mobile app developed using MVVM pattern
 
 The mobile app is located at this <a href="https://github.com/loziohomer/mvvm-flutter">link</a>.
